@@ -1,3 +1,4 @@
 679. 24 Game --> BackTracking
 837. New 21 Game --> Dp
 1277. Count Square Submatrices with All Ones --> Dp
+1504. Count Submatrices With All Ones --> Dp
