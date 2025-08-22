@@ -2,3 +2,4 @@
 837. New 21 Game --> Dp
 1277. Count Square Submatrices with All Ones --> Dp
 1504. Count Submatrices With All Ones --> Dp
+3195. Find the Minimum Area to Cover All Ones I
