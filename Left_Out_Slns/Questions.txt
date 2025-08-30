@@ -4,3 +4,6 @@
 1504. Count Submatrices With All Ones --> Dp
 3195. Find the Minimum Area to Cover All Ones I
 Sliding window maximum - Brute force done & Optimal using deque and monotonic stack pending
+
+Started BackTracking :
+1.Subsets
